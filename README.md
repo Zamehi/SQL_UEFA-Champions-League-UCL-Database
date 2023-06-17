@@ -7,6 +7,7 @@ are provided with an excel sheet containing data for UCL 2016-2022. You are
 required to complete the following parts:
 
 PART#1 – Design (50 Marks)
+![image](https://github.com/Zamehi/UEFA-Champions-League-UCL-Database-SQL-queries/assets/129313428/f550896c-27ab-418f-afe7-3a8027bed809)
 
 1. Design SQL Schema for the given dataset. Identify the Entities/Tables and
 corresponding columns, constraints, and primary keys. Also, identify the
@@ -28,6 +29,10 @@ understand the type of data in a column while designing the schema. You can
 assume empty cells as NULL.
 
 QUERIES 
+![image](https://github.com/Zamehi/UEFA-Champions-League-UCL-Database-SQL-queries/assets/129313428/f0d3e35f-ddba-43a3-84fe-3d8550954584)
+
+![image](https://github.com/Zamehi/UEFA-Champions-League-UCL-Database-SQL-queries/assets/129313428/2af647b5-0dd9-46cb-90b5-2396f12db0de)
+
 1. All the players that have played under a specific manager.
 2. All the matches that have been played in a specific country.
 3. All the teams that have won more than 3 matches in their home stadium.
